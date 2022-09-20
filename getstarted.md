@@ -256,10 +256,4 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
   font-family: Lucida Handwriting;
   }
 
-  .gs-section-04 h4 {
-  color: OliveDrab;
-  font-size: 30px;
-  font-family: Helvetica;
-  }
-
 </style>
