@@ -241,13 +241,13 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
   .gs-section-01 h1 {
   color: Azure;
   font-size: 35px;
-  font-family: Papyrus;
+  font-family: Helvetica;
   }
 
  .gs-section-02 h2 {
   color: DeepPink;
   font-size: 30px;
-  font-family:Georgia;
+  font-family: Georgia;
   }
 
   .gs-section-03 h3 {
