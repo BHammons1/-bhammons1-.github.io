@@ -92,11 +92,15 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 
 </div>
 
+<div class="gs-section-04" markdown="1">
+
 ### 4. Congratulations! You have a website!
 
 After you save your changes to the `_config.yml` file (by clicking on *Commit changes* as the video tutorial shows), your website should be ready in a minute or two at `https://<yourusername>.github.io`. Every time you make a change to any file, your website will get rebuilt and should be updated in about a minute or so. Your website will be initialized with several sample blog posts and a couple other pages.
 
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
+
+</div>
 
 ## The hard way (using ruby gems)
 
@@ -238,16 +242,16 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 
-  .gs-section-01 h1 {
-  color: Navy;
-  font-size: 40px;
-  font-family: Lucida Handwriting;
+  .gs-section-01 h3 {
+  color: red;
+  font-size: 25px;
+  font-family: Brush Script MT;
   }
 
- .gs-section-02 h2 {
-  color: Navy;
-  font-size: 40px;
-  font-family: Lucida Handwriting;
+ .gs-section-02 h3 {
+  color: DeepPink;
+  font-size: 30px;
+  font-family: Garamond;
   }
 
   .gs-section-03 h3 {
@@ -257,3 +261,4 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
   }
   
 </style>
+
